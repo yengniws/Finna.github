@@ -1,5 +1,6 @@
 # FINNA
-![FINNA](https://github.com/Finna-GDSC/DoFarming_PM/assets/144197605/81a272b0-0421-4770-accc-82c8f74480cf)
+<img width="883" alt="스크린샷 2024-02-21 오후 7 12 11" src="https://github.com/Finna-GDSC/.github/assets/145003970/63b25112-e283-425f-9486-2ed54eac838a">
+
 
 ## Repository Links
 * [Web](https://github.com/Finna-GDSC/DoFarming_WEB)
