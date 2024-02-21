@@ -1,5 +1,5 @@
 # FINNA
-<img width="883" alt="스크린샷 2024-02-21 오후 7 12 11" src="https://github.com/Finna-GDSC/.github/assets/145003970/63b25112-e283-425f-9486-2ed54eac838a">
+<p align="center"><img width="882" alt="FINNA Home" src="https://github.com/Finna-GDSC/.github/assets/145003970/f20014e0-05dc-4eaf-b2cb-2a4c6ef41a33"></p>
 
 
 ## Repository Links
